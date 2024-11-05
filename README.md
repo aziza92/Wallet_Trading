@@ -38,9 +38,9 @@ This repository contains a React-based web application for a trading wallet that
    npm start
 
 ## 🛠 Technologies Used
-- **React: For building the user interface.
-- **Redux: For state management.
-- **Axios: For making API calls.
+- React: For building the user interface.
+- Redux: For state management.
+- Axios: For making API calls.
 
 
 ## Learn More
