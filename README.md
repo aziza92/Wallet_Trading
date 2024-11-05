@@ -13,6 +13,7 @@ This repository contains a React-based web application for a trading wallet that
 
 - **User Authentication**: Secure user login and registration system to ensure privacy and security of user accounts.
 - **Portfolio Management**: Users can view and manage their cryptocurrency portfolio, including balances and transaction history.
+- **Trading Functionality**: Perform buy and sell operations for various cryptocurrencies with real-time price updates.
 
 
 #
