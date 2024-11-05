@@ -23,6 +23,7 @@ This repository contains a React-based web application for a trading wallet that
 
 ![login](https://github.com/user-attachments/assets/01daabf6-a1c1-4317-8408-93eb26e21fa7)
 
+
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/Wallet_Trading.git  
@@ -36,12 +37,17 @@ This repository contains a React-based web application for a trading wallet that
    ```bash
    npm start
 
+## 🛠 Technologies Used
+- **React: For building the user interface.
+- **Redux: For state management.
+- **Axios: For making API calls.
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
 
 
 ## 👏 How to Contribute
