@@ -10,6 +10,28 @@
 
 ![login](https://github.com/user-attachments/assets/01daabf6-a1c1-4317-8408-93eb26e21fa7)
 
+  
+## 🛠 Installation
+Clone the repository:
+
+bash
+Copier le code
+git clone https://github.com/yourusername/react-trading-wallet.git
+Navigate to the project directory:
+
+bash
+Copier le code
+cd react-trading-wallet
+Install dependencies:
+
+bash
+Copier le code
+npm install
+Start the development server:
+
+bash
+Copier le code
+npm start
 
 
 ## Learn More
