@@ -3,7 +3,7 @@
 
 
   #
-   <img src="https://github.com/aziza92/Wallet_Trading/assets/aba2170b-3622-4efb-a8e9-c787d850f17d.jpg" width="1400" height="600">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+   <img src="https://github.com/aziza92/Wallet_Trading/assets/600bc810-05de-4404-8ac7-1e5a7f063400.jpg" width="1400" height="600">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
 
