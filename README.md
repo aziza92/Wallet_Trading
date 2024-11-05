@@ -2,11 +2,12 @@
 # React Trading Wallet
 
 ![React](https://img.shields.io/badge/React-Framework-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow)
+![Static Badge](https://img.shields.io/badge/v8.1-b?logo=npm&label=npm) ![Static Badge](https://img.shields.io/badge/v16.13-b?label=nodeJs)
+![Static Badge](https://img.shields.io/badge/VsCode-c?color=blue) ![Static Badge](https://img.shields.io/badge/React%20-c?color=blue) ![Static Badge](https://img.shields.io/badge/Java-c?color=red) ![Static Badge](https://img.shields.io/badge/Firebase-c?logo=Firebase&color=gray)
 
 ## 📝 Description
 
-![Static Badge](https://img.shields.io/badge/v8.1-b?logo=npm&label=npm) ![Static Badge](https://img.shields.io/badge/v16.13-b?label=nodeJs)
-![Static Badge](https://img.shields.io/badge/VsCode-c?color=blue) ![Static Badge](https://img.shields.io/badge/React%20-c?color=blue) ![Static Badge](https://img.shields.io/badge/Java-c?color=red) ![Static Badge](https://img.shields.io/badge/Firebase-c?logo=Firebase&color=gray)
+
 
 
   #
