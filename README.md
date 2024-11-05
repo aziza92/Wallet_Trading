@@ -24,7 +24,7 @@ This repository contains a React-based web application for a trading wallet that
 
 ![login](https://github.com/user-attachments/assets/01daabf6-a1c1-4317-8408-93eb26e21fa7)
 
-
+## 🛠 Installation
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/Wallet_Trading.git  
@@ -37,6 +37,11 @@ This repository contains a React-based web application for a trading wallet that
 4. **Start the development serve**:
    ```bash
    npm start
+
+
+## 🚀 Usage
+1. **User Registration/Login**: Navigate to the authentication page to create a new account or log in to an existing account.
+2. **Manage Portfolio**: View your cryptocurrency holdings and transaction history on the portfolio page.
 
 ## 🛠 Technologies Used
 - React: For building the user interface.
