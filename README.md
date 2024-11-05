@@ -7,6 +7,10 @@
 
 ## 📝 Description
 
+This repository contains a React-based web application for a trading wallet that allows users to manage their cryptocurrency assets, perform trading operations, and track their portfolio in real-time. The project aims to provide a user-friendly interface for trading and managing digital currencies.
+
+### Features
+
 
 
 
