@@ -27,12 +27,11 @@ This repository contains a React-based web application for a trading wallet that
 ## 🛠 Installation
 Clone the repository:
 
-bash
-Copier le code
-git clone https://github.com/yourusername/react-trading-wallet.git
-Navigate to the project directory:
-
-bash
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/react-trading-wallet.git
+2. **Navigate to the project directory:
+   ```bash
 Copier le code
 cd react-trading-wallet
 Install dependencies:
