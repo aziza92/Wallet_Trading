@@ -23,18 +23,36 @@ This repository contains a React-based web application for a trading wallet that
 
 ![login](https://github.com/user-attachments/assets/01daabf6-a1c1-4317-8408-93eb26e21fa7)
 
-  
-## 🛠 Installation
-Clone the repository:
-
 1. **Clone the repository**:
-
    ```bash
-   git clone https://github.com/yourusername/react-trading-wallet.git
-   
-2. Navigate to the project directory:
+   git clone https://github.com/yourusername/Wallet_Trading.git  
+2. **Navigate to the project directory**:
+   ```bash
+   cd Wallet_Trading  
+3. **Install dependencies**:
+   ```bash
+   npm install
+4. **Start the development serve**:
+   ```bash
+   npm start
 
-```bash
- cd react-trading-wallet
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+## 👏 How to Contribute
+
+Feel free to fork this repository, submit issues, and make pull requests. Any contributions to enhance the functionality and user experience of the Cinephile application are welcome.
+
+📄 License
+
+Copyright © 2024 Aziza Elgoul
+
+This project is licensed under the [MIT](https://opensource.org/license/mit) License. See the LICENSE file for more details.
+
 
 
