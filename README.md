@@ -6,6 +6,7 @@
 
 ![wallet](https://github.com/user-attachments/assets/89ba0b94-1bbb-4749-b94a-bbfe7e665d16) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
+![signup](https://github.com/user-attachments/assets/fcc466fb-f3fd-4341-b1e2-741ad5f29447)
 
 
 
